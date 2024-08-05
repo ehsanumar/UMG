@@ -133,5 +133,8 @@
 
     });
   });
-</script>
 
+  export default {
+  name :'Headers'
+};
+</script>

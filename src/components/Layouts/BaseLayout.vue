@@ -6,8 +6,8 @@ import Footers from './Footers.vue'
 <template>
   <main class="bg-white text-gray-500 overflow-x-hidden text-center justify-center items-center">
     <Headers />
-
     <slot />
+    
   </main>
 
   <Footers />
